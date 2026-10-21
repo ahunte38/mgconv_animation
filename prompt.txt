@@ -1,0 +1,1 @@
+echo mobjects.py | entr -r manim --live-preview mobjects.py Main

@@ -1,0 +1,11 @@
+Intro
+
+Finite Volume Method
+
+Explain FVM with an example problem of cars on a road
+End with but for humans how do we model flux?
+
+Loss Function
+
+Architecture
+

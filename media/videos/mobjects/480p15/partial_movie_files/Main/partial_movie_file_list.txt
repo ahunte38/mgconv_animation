@@ -1,0 +1,11 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/3e8fadd7f14a75206cb4970264dbf9f90e0438535347ab47c51130e8a796d76f.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/c95d48866154dbf7a3c3ccd109927aab2523a2c1697b5d73eef54746e6041849.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/95d89c5bed532cdf28ae4355c7fc065fe4e1967b243d21ee6e09cc0e65be7994.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/fc6374411a98cd16584f1ed699f530dfac168ba924bc832e529f4961df381cb4.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/1cb8fc741319927e01c91dca3bfc1bf1224c0e4d8112edf8b90ee1234c1b7f6c.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/bf20cb85edc565ab98e90d798cc70d3448e140fd748a76c3d7d451a65a1c11a5.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/72b93d13aac9e11c811638510a7a6f07ad7e5f1dc1b30bcf275eb4f01211a5f0.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/8b6e70dbcd1172cc659cb0cd01d46fef687b84f3e1f4a91a0c5d3f23c4626367.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/55ccf251e41c446b569aacab2cbdc26bdc84db349a64e354f2d542289882e61c.mp4'
+file 'file:/Users/davishunter/Desktop/mgconv_video/media/videos/mobjects/480p15/partial_movie_files/Main/87126a818a93d63049c98c5699d70990b245813760f08eb4d4bab97d120834fb.mp4'
